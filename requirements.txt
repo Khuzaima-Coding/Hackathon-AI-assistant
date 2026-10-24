@@ -1,0 +1,9 @@
+streamlit
+requests
+fastapi
+uvicorn[standard]
+pydantic
+PyJWT
+passlib[bcrypt]
+openai
+python-dotenv
