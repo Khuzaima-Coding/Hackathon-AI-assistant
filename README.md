@@ -1,1 +1,2 @@
 I have created this AI Assistant after understanding from the Gemeni Anyone cannot tell me about this that how can i do this, I created this,but this is not mine project.Due to misunderstanding I created this.So Lets check this.
+It is not deploying by me due to inexperience's in backend. 
